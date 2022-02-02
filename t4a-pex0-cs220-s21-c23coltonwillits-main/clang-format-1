@@ -1,0 +1,14 @@
+﻿---
+BasedOnStyle: Google
+AllowShortBlocksOnASingleLine: 'false'
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: 'false'
+BreakBeforeBraces: Attach
+ColumnLimit: '100'
+IndentCaseLabels: 'true'
+IndentWidth: '4'
+SpaceBeforeAssignmentOperators: 'true'
+TabWidth: '4'
+
+...
